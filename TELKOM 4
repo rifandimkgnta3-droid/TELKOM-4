@@ -457,7 +457,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
-#EXTINF:-1 tvg-id="Thrill" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Thrill_channel_logo.png/512px-Thrill_channel_logo.png" group-title="ALL TV",THRIIL
+#EXTINF:-1 tvg-id="Thrill" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Thrill_channel_logo.png/512px-Thrill_channel_logo.png" group-title="ALL TV",THRILL
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -871,45 +871,3 @@ https://cdnbal1.indihometv.com/atm/DASH/newtvfinance/newtvfinance-avc1_2500000=7
 
 #EXTINF:-1 tvg-id="NewTVVariety.id@SD" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png",NEW TV VARIETY
 https://cdnbal1.indihometv.com/atm/DASH/newtvvariety/newtvvariety-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 tvg-id="144.trans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TransVision.svg/512px-TransVision.svg.png" tvg-name="Bioskop Indonesia" group-title="ALL TV", BIOSKOP INDONESIA
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b55f78ce70ba4873a2740150be5aebcd:abefa98aac524523ac9e1bc35421031f
-https://cdnjktidc01.transvision.co.id/riutx01-05650556daa5f567306b858439f44850/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd
-
-#EXTINF:-1 tvg-id="162.trans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TransVision.svg/512px-TransVision.svg.png" tvg-name="Movies News" group-title="ALL TV", MOVIES NEWS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b55f78ce70ba4873a2740150be5aebcd:abefa98aac524523ac9e1bc35421031f
-https://cdnjktidc01.transvision.co.id/riutx01-05650556daa5f567306b858439f44850/dash/TW92aWVzIE5ld3M/manifest.mpd
-
-#EXTINF:-1 tvg-id="222.trans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TransVision.svg/512px-TransVision.svg.png" tvg-name="Dunia Anak" group-title="ALL TV", DUNIA ANAK
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b55f78ce70ba4873a2740150be5aebcd:abefa98aac524523ac9e1bc35421031f
-https://cdnjktidc01.transvision.co.id/riutx01-05650556daa5f567306b858439f44850/dash/RHVuaWEgQW5haw/manifest.mpd
-
-#EXTINF:-1 tvg-id="221.trans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TransVision.svg/512px-TransVision.svg.png" tvg-name="Cartoon TV" group-title="ALL TV", CARTOON TV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b55f78ce70ba4873a2740150be5aebcd:abefa98aac524523ac9e1bc35421031f
-https://cdnjktidc01.transvision.co.id/riutx01-05650556daa5f567306b858439f44850/dash/Q2FydG9vbiBUVg/manifest.mpd
-
-#EXTINF:-1 tvg-id="220.trans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TransVision.svg/512px-TransVision.svg.png" tvg-name="Cartoon TV Premium" group-title="ALL TV", CARTOON TV PREMIUM
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b55f78ce70ba4873a2740150be5aebcd:abefa98aac524523ac9e1bc35421031f
-https://cdnjktidc01.transvision.co.id/riutx01-05650556daa5f567306b858439f44850/dash/Q2FydG9vbiBUViBQcmVtaXVt/manifest.mpd
-
-#EXTINF:-1 tvg-id="223.trans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TransVision.svg/512px-TransVision.svg.png" tvg-name="Cartoon TV Classic" group-title="ALL TV", CARTOON TV CLASSIC
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b55f78ce70ba4873a2740150be5aebcd:abefa98aac524523ac9e1bc35421031f
-https://cdnjktidc01.transvision.co.id/riutx01-05650556daa5f567306b858439f44850/dash/Q2FydG9vbiBUViBDbGFzc2ljcw/manifest.mpd
-
-#EXTINF:-1 tvg-id="260.trans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TransVision.svg/512px-TransVision.svg.png" tvg-name="Knowledge+" group-title="ALL TV", KNOWLEDGE+
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b55f78ce70ba4873a2740150be5aebcd:abefa98aac524523ac9e1bc35421031f
-https://cdnjktidc01.transvision.co.id/riutx01-05650556daa5f567306b858439f44850/dash/S25vd2xlZGdlKw/manifest.mpd
