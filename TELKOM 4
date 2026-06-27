@@ -871,3 +871,146 @@ https://cdnbal1.indihometv.com/atm/DASH/newtvfinance/newtvfinance-avc1_2500000=7
 
 #EXTINF:-1 tvg-id="NewTVVariety.id@SD" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png",NEW TV VARIETY
 https://cdnbal1.indihometv.com/atm/DASH/newtvvariety/newtvvariety-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Vidio_logo_red.svg/512px-Vidio_logo_red.svg.png",CITRA PLUS
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21289&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=21289&type=dash
+
+#EXTINF:-1 group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Vidio_logo_red.svg/512px-Vidio_logo_red.svg.png",AJWA TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://nextgenz.my.id/event/pidio/play.mpd?id=7464&type=dash
+#https://spacetv.my.id/index.mpd?id=7464&type=dash
+
+#EXTINF:-1 group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Vidio_logo_red.svg/512px-Vidio_logo_red.svg.png",AFRICANEWS
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://ratu77.adptv.workers.dev/index.mpd?id=12784&type=dash
+
+#EXTINF:-1 tvg-name="Champions TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Vidio_logo_red.svg/512px-Vidio_logo_red.svg.png" tvg-id="Champions TV.id" group-title="ALL TV",CHAMPIONS TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=dash
+#https://pidio.becek.workers.dev/17938.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=17938&type=dash
+#https://aspaltvpasti.top/11111/17938.mpd
+https://tvratu.my.id/vid/index.mpd?id=6685&type=dash
+#https://pidio.becek.workers.dev/6685.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=17938&type=dash
+#https://aspaltvpasti.top/11111/17938.mpd
+
+#EXTINF:-1 tvg-name="Champions TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Vidio_logo_red.svg/512px-Vidio_logo_red.svg.png" tvg-id="Champions TV.id" group-title="ALL TV",CHAMPIONS TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6686&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6686&type=dash
+#https://pidio.becek.workers.dev/6686.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=6686&type=dash
+#https://aspaltvpasti.top/11111/6686.mpd
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6686&type=dash
+#https://pidio.becek.workers.dev/6686.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=6686&type=dash
+#https://aspaltvpasti.top/11111/6686.mpd
+
+#EXTINF:-1 tvg-name="Champions TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Vidio_logo_red.svg/512px-Vidio_logo_red.svg.png" tvg-id="Champions TV.id" group-title="ALL TV",CHAMPIONS TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=dash
+#https://pidio.becek.workers.dev/19404.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=19404&type=dash
+#https://aspaltvpasti.top/11111/19404.mpd
+https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=dash
+#https://pidio.becek.workers.dev/19404.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=19404&type=dash
+#https://aspaltvpasti.top/11111/19404.mpd
+
+#EXTINF:-1 tvg-name="Champions TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Vidio_logo_red.svg/512px-Vidio_logo_red.svg.png" tvg-id="Champions TV.id" group-title="ALL TV",CHAMPIONS TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash
+#https://pidio.becek.workers.dev/9182.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9182&type=dash
+#https://aspaltvpasti.top/11111/9182.mpd
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash
+#https://pidio.becek.workers.dev/9182.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9182&type=dash
+#https://aspaltvpasti.top/11111/9182.mpd
+
+#EXTINF:-1 tvg-name="Champions TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Vidio_logo_red.svg/512px-Vidio_logo_red.svg.png" tvg-id="Champions TV.id" group-title="ALL TV",CHAMPIONS TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
+#https://pidio.becek.workers.dev/9183.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9183&type=dash
+#https://aspaltvpasti.top/11111/9183.mpd
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
+#https://pidio.becek.workers.dev/9183.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9183&type=dash
+#https://aspaltvpasti.top/11111/9183.mpd
+
+#EXTINF:-1 group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Vidio_logo_red.svg/512px-Vidio_logo_red.svg.png",CHAMPIONS GOLF 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=18189&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=18189&type=dash
+
+#EXTINF:-1 group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Vidio_logo_red.svg/512px-Vidio_logo_red.svg.png",CHAMPIONS GOLF 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=18190&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=18190&type=dash
+
+#EXTINF:-1 group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Vidio_logo_red.svg/512px-Vidio_logo_red.svg.png",CHAMPIONS FIGHT
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=20216&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=20216&type=dash
+
+#EXTINF:-1 group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Vidio_logo_red.svg/512px-Vidio_logo_red.svg.png",PREMIER LEAGUE TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9353&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9353&type=dash
