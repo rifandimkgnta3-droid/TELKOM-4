@@ -1014,3 +1014,90 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=20216&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9353&type=drm
 https://ratuvidio.adptv.workers.dev/index.mpd?id=9353&type=dash
+
+#EXTINF:0 tvg-id="JC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", JAGANTARA TV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch119.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/512px-VTV_Indonesia_2023.svg.png" group-title="ALL TV", VTV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", AL IMAN TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch9.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", WESAL TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch33.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", SURAU TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch3.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", ASHIIL TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch2.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", INSAN TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch1.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="YOUTV", AHSAN TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch4.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", MUADZ TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch5.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", HIJRAH TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch8.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", IZZAH TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch28.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", RINJANI TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch32.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", MADINAH TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch13.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id@SD" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/CNN_Indonesia_logo.svg/512px-CNN_Indonesia_logo.svg.png",CNN INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id@SD" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/CNBC_Indonesia_logo.svg/512px-CNBC_Indonesia_logo.svg.png",CNBC INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BTV.id@SD" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BTV_logo.png/512px-BTV_logo.png",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
+
+#EXTINF:-1 tvg-id="BeritaSatu.id@SD" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BeritaSatu_logo.png/512px-BeritaSatu_logo.png",BERITA SATU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
+
+#EXTINF:-1 tvg-id="NusantaraTV.id@SD" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nusantara_TV_logo.svg/512px-Nusantara_TV_logo.svg.png",NUSANTARA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
+#EXTINF:-1 tvg-id="DAAI TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Daai_TV_logo.png/512px-Daai_TV_logo.png" group-title="ALL TV",DAAI TV 
+https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Magna_Channel_logo.png/512px-Magna_Channel_logo.png" group-title="NASIONAL",MAGNA CHANNEL
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://garuda.tv/
+#EXTINF:-1 tvg-id="Garuda TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Garuda_TV_logo.png/512px-Garuda_TV_logo.png" group-title="ALL TV",GARUDA TV
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+
