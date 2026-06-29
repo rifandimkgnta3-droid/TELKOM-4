@@ -1023,6 +1023,14 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch119.m3u8
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV",BTV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch105.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV",GARUDA TV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch104.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV",LEJEL LEJEL TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch100.m3u8
@@ -1087,14 +1095,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BTV.id@SD" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BTV_logo.png/512px-BTV_logo.png",BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
-
-#EXTINF:-1 tvg-id="BeritaSatu.id@SD" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BeritaSatu_logo.png/512px-BeritaSatu_logo.png",BERITA SATU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
-
 #EXTINF:-1 tvg-id="NusantaraTV.id@SD" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nusantara_TV_logo.svg/512px-Nusantara_TV_logo.svg.png",NUSANTARA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
@@ -1108,8 +1108,3 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Magna_Channel_logo.png/512px-Magna_Channel_logo.png" group-title="ALL TV",MAGNA CHANNEL
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://garuda.tv/
-#EXTINF:-1 tvg-id="Garuda TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Garuda_TV_logo.png/512px-Garuda_TV_logo.png" group-title="ALL TV",GARUDA TV
-https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
-
