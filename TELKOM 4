@@ -1078,7 +1078,9 @@ https://flv.intechmedia.net/live/ch23.m3u8
 https://flv.intechmedia.net/live/ch13.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV",RCTI
-#https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
