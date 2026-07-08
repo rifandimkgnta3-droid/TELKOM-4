@@ -1185,9 +1185,6 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w1484101028.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", BANTEN TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png", JOGJA TV
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-
 #EXTINF:-1 tvg-id="DAAI TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1342644305.m3u8
 
@@ -1218,7 +1215,7 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png", SAKTI TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="ALL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPfFLNMuIA5uCvJUn2McLVnArXmh73jrWXAw&s", DUTA TV
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png", DUTA TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png", SANGAJI TV
@@ -1227,12 +1224,8 @@ https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png", BUNGO TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/chunklist_w722532023.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="ALL TV" tvg-logo="https://img.mbizmarket.co.id/products/thumbs/343x343/2022/08/26/05ec6ce3f5dd7ac9ce683463c276a672.jpg", MADU TV
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png", MADU TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png", FICOM CHANNEL
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", TV TABALONG
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w806925474.m3u8
@@ -1249,7 +1242,7 @@ https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png", PON TV
 https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w247695662.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSevCJsvvGwDK8xuLyM0rMiOBN9cECG8m4RFg&s" group-title="ALL TV", IMTV
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/chunklist_w422579395.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png", LENTERA TV
