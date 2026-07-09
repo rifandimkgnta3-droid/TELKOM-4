@@ -748,6 +748,11 @@ https://ayo.maling.pl/Vision/index.mpd?id=15
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=134
 https://ayo.maling.pl/Vision/index.mpd?id=134
 
+#EXTVLCOPT:http-referrer=https://m.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=994121840707471a920b2e65bdf21b7e:0033ae3118a0153ad05fc9a066a8805c
+#EXTINF:-1 group-title="ALL TV" tvg-id="JTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png",JTV
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
@@ -1182,11 +1187,25 @@ https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w1484101028.m3u8
 
+#EXTVLCOPT:http-referrer=https://cdn.siar.us
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="ALL TV" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png",SURABAYA TV
+https://e.siar.us/live/surabayatv.m3u8
+
 #EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", BANTEN TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAAI TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1342644305.m3u8
+
+#EXTVLCOPT:http-referrer=https://jogjatv.tv/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="ALL TV" tvg-id="Jogja TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png",JOGJA TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png", RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
@@ -1247,3 +1266,92 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/chunklist_w422579395.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png", LENTERA TV
 https://stream.innobi.id/hls/lenteratv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV",TVKU
+https://tvku.tv/hlsstream/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TC",JEK TV
+http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="ALL TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Davika_TV.png",DAVIKA TV
+https://5bf7b725107e5.streamlock.net/davika/davika/chunklist_w997967539.m3u8
+
+#EXTVLCOPT:http-referrer=https://kstv.co.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="ALL TV" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"  tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=200px-Kilisuci_TV.png",KILISUCI TV
+https://5bf7b725107e5.streamlock.net/kstv/kstv/chunklist_w1799577873.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png" group-title="ALL TV",TIMOR TV
+http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png" group-title="ALL TV",SMTV
+http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" group-title="ALL TV",SALIRA TV
+https://live.salira.tv/p/3870/hybrid/play.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV",SAMPIT TV
+https://sampit-tv.siar.us/live/sampit-tv.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV",SULTRA TV
+http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="ALL TV" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png",JTV KEDIRI
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="ALL TV" tvg-id="Jawapos TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png",JAWAPOS TV JAKARTA
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png",STARA TV BANDUNG
+https://bandung.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png",STARA TV CIANJUR
+https://cianjur.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png",STARA TV MALANG
+https://malang.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png",STARA TV JAKARTA
+https://jakarta.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png",STARA TV MAJALENGKA
+https://stream.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png",STARA TV BOJONEGORO
+https://bojonegoro.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png",STARA TV PARAHYANGAN
+https://parahyangan.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV",KALTARA TV
+https://5bf7b725107e5.streamlock.net/kaltaratv/kaltaratv/playlist.m3u8
+
+#EXTINF:-1 group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png",FICOM CHANNEL
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
