@@ -877,15 +877,8 @@ https://cdnbal1.indihometv.com/atm/DASH/newtvfinance/newtvfinance-avc1_2500000=7
 #EXTINF:-1 tvg-id="NewTVVariety.id@SD" group-title="ALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png",NEW TV VARIETY
 https://cdnbal1.indihometv.com/atm/DASH/newtvvariety/newtvvariety-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5613ec24-ed04-42e5-917b-dee0e0ec074a.png" group-title="ALL TV", BIOSKOP INDONESIA
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=584638687655344f724d7330484e5552:34616c6b32476b4372427051716b4656
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
-https://cdnjkt913.transvision.co.id:1004/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV",BIOSKOP INDONESIA
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TXVzaWsgSW5kb25lc2lh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV ", MUSIK INDONESIA
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -896,6 +889,116 @@ https://cdnjkt913.transvision.co.id:1004/live/master/4/4028c6856fd0d66d0170341bf
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
 https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/TXVzaWsgSW5kb25lc2lh/manifest.mpd?signature=MTAOMjFLYWRjYjZONzIwZlZmZmN2MWYjMThMThiMThiMGU=&time=15227727724|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+
+#EXTINF:-1 tvg-id="S2hhemFuYWg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", KHAZANAH
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
+https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/S2hhemFuYWg/manifest.mpd?signature=MTAOMjFLYWRjYjZONzIwZlZmZmN2MWYjMThMThiMThiMGU=&time=15227727724|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+
+#EXTINF:-1 tvg-id="UGlqYXIgVFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", PIJAR TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
+https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/UGlqYXIgVFY/manifest.mpd?signature=MTAOMjFLYWRjYjZONzIwZlZmZmN2MWYjMThMThiMThiMGU=&time=15227727724|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+
+#EXTINF:-1 tvg-id="RGF5c3RhciBDaG5s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", DAYSTAR TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
+https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/RGF5c3RhciBDaG5s/manifest.mpd?signature=MTAOMjFLYWRjYjZONzIwZlZmZmN2MWYjMThMThiMThiMGU=&time=15227727724|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+
+#EXTINF:-1 tvg-id="RWF0IE4gR28" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", EAT&GO
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
+https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/RWF0IE4gR28/manifest.mpd?signature=MTAOMjFLYWRjYjZONzIwZlZmZmN2MWYjMThMThiMThiMGU=&time=15227727724|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+
+#EXTINF:-1 tvg-id="RHVuaWEgTGFpbg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", DUNIA LAIN
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
+https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/RHVuaWEgTGFpbg/manifest.mpd?signature=MTAOMjFLYWRjYjZONzIwZlZmZmN2MWYjMThMThiMThiMGU=&time=15227727724|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+
+#EXTINF:-1 tvg-id="RHVuaWEgQW5haw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", DUNIA ANAK
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
+https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/RHVuaWEgQW5haw/manifest.mpd?signature=MTAOMjFLYWRjYjZONzIwZlZmZmN2MWYjMThMThiMThiMGU=&time=15227727724|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+
+#EXTINF:-1 tvg-id="Q2FydG9vbiBUVg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", CARTOON TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
+https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/Q2FydG9vbiBUVg/manifest.mpd?signature=MTAOMjFLYWRjYjZONzIwZlZmZmN2MWYjMThMThiMThiMGU=&time=15227727724|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+
+#EXTINF:-1 tvg-id="Q2FydG9vbiBUViBQcmVtaXVt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", CARTOON TV PREMIUM
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
+https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/Q2FydG9vbiBUViBQcmVtaXVt/manifest.mpd?signature=MTAOMjFLYWRjYjZONzIwZlZmZmN2MWYjMThMThiMThiMGU=&time=15227727724|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+
+#EXTINF:-1 tvg-id="Q2FydG9vbiBUViBDbGFzc2ljcw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", CARTOON TV CLASSICS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
+https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/Q2FydG9vbiBUViBDbGFzc2ljcw/manifest.mpd?signature=MTAOMjFLYWRjYjZONzIwZlZmZmN2MWYjMThMThiMThiMGU=&time=15227727724|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+
+#EXTINF:-1 tvg-id="UFNKIFRW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", PSJ TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
+https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/UFNKIFRW/manifest.mpd?signature=MTAOMjFLYWRjYjZONzIwZlZmZmN2MWYjMThMThiMThiMGU=&time=15227727724|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+
+#EXTINF:-1 tvg-id="R29sZi1DaGFubmVs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV", GOLF PLUS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36","Referer":"https://www.cubmu.com/"}
+https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/R29sZi1DaGFubmVs/manifest.mpd?signature=MTAOMjFLYWRjYjZONzIwZlZmZmN2MWYjMThMThiMThiMGU=&time=15227727724|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36&Referer=https://www.cubmu.com/
 
 #EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/512px-VTV_Indonesia_2023.svg.png" group-title="ALL TV", VTV HD
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
