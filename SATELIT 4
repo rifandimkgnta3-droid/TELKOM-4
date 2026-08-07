@@ -1,3 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1280px-GTV_%282017%29.svg.png" group-title="ALL TV",GTV
-http://103.137.83.62:9090/play/30/index.m3u8
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV",RCTI HD
+https://stream.diorx.my.id/streams/RCTI.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV",MNCTV HD
+https://stream.diorx.my.id/streams/mnctv.m3u8
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ALL TV",GTV HD
+https://stream.diorx.my.id/streams/gtv.m3u8
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.pngtreaming/image/5409/inews-1b9437.jpg" group-title="ALL TV",iNews HD
+https://stream.diorx.my.id/streams/inews.m3u8
