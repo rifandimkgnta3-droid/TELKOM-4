@@ -10,3 +10,6 @@ https://stream.diorx.my.id/streams/gtv.m3u8
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.pngtreaming/image/5409/inews-1b9437.jpg" group-title="ALL TV",iNews HD
 https://stream.diorx.my.id/streams/inews.m3u8
+
+#EXTINF:-1 tvg-id="qodrat" tvg-name="" tvg-logo="https://imusic.id/wp-content/uploads/2022/10/311316272_135221492596429_2385138342504836538_n.jpg" group-title="FILM HOROR",Test
+https://www.dailymotion.com/video/x8j52rt
